@@ -1,7 +1,7 @@
 # Project-Landing-Page
 
- file:///home/troy/Desktop/Project-Landing-Page/img-design/Finish%20Project.png
--25:-30:51:84
+ ![Finish Project](https://user-images.githubusercontent.com/75222545/168409199-be9812f0-bb94-4f12-906d-6b5383b7d867.png)
+ 
 
 
 Flexbox is a layout mechanism designed for laying out groups of items in one dimension. 
